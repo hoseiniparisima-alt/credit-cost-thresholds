@@ -1,0 +1,12 @@
+# Data is downloaded at runtime, never committed
+data/
+*.csv
+*.data
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
